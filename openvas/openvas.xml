@@ -13,7 +13,7 @@
   <Support>https://forums.unraid.net/topic/81469-support-jbreed-nessus/</Support>
   <Registry>https://registry.hub.docker.com/r/mikesplain/openvas</Registry>
   <GitHub>https://github.com/mikesplain/openvas-docker</GitHub>
-  <Repository>mikesplain/openvas-docker</Repository>
+  <Repository>mikesplain/openvas</Repository>
   <Project>https://www.openvas.org/</Project>
   <Deprecated>false</Deprecated>
   <BindTime>true</BindTime>
