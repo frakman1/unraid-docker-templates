@@ -45,6 +45,11 @@
       <ContainerDir>/var/lib/openvas/mgr</ContainerDir>
       <Mode>rw</Mode>
     </Volume>
+   <Volume>
+      <HostDir>/mnt/cache/appdata/frak-openvas/config/openvas-gsa</HostDir>
+      <ContainerDir>/etc/default/openvas-gsa</ContainerDir>
+      <Mode>rw</Mode>
+    </Volume>    
   </Data>
   <WebUI>https://[IP]:[PORT:8443]/</WebUI>
   <Banner></Banner>
