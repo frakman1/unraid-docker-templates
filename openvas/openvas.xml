@@ -46,8 +46,8 @@
       <Mode>rw</Mode>
     </Volume>
    <Volume>
-      <HostDir>/mnt/cache/appdata/frak-openvas/config/openvas-gsa</HostDir>
-      <ContainerDir>/etc/default/openvas-gsa</ContainerDir>
+      <HostDir>/mnt/cache/appdata/frak-openvas/config</HostDir>
+      <ContainerDir>/etc/default</ContainerDir>
       <Mode>rw</Mode>
     </Volume>    
   </Data>
