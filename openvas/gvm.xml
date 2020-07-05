@@ -41,7 +41,7 @@
       <Mode>rw</Mode>
     </Volume>  
   </Data>
-  <WebUI>https://[IP]:[PORT:8080]/</WebUI>
+  <WebUI>https://[IP]:[PORT:9392]/</WebUI>
   <Banner></Banner>
   <Icon>https://raw.githubusercontent.com/frakman1/unraid-docker-templates/master/openvas/gvm.png</Icon>
   <ExtraParams></ExtraParams>
